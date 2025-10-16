@@ -15,7 +15,7 @@ This project uses a custom CNN model trained on the FER2013 dataset to classify 
 ## 📂 Files Included
 - `sc.ipynb` → Jupyter Notebook containing CNN training and evaluation  
 - `Ai plagiarism report.pdf` → AI plagiarism detection report  
-- `facial recognation grammerly report.docx` → Grammarly grammar analysis report  
+- `grammerly report.pdf` → Grammarly grammar analysis report  
 
 ---
 
